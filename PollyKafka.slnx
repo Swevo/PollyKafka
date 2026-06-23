@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/PollyKafka/PollyKafka.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/PollyKafka.Tests/PollyKafka.Tests.csproj" />
+  </Folder>
+</Solution>

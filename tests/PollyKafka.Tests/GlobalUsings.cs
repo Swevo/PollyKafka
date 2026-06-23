@@ -1,0 +1,9 @@
+global using Confluent.Kafka;
+global using FluentAssertions;
+global using Microsoft.Extensions.DependencyInjection;
+global using NSubstitute;
+global using NSubstitute.ExceptionExtensions;
+global using Polly.CircuitBreaker;
+global using Polly.Timeout;
+global using PollyKafka;
+global using Xunit;
