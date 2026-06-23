@@ -189,6 +189,7 @@ Retry → Circuit Breaker → Timeout → Kafka operation
 | [PollyCaching](https://www.nuget.org/packages/PollyCaching) | Distributed cache with Polly resilience |
 | [PollyBulkhead](https://www.nuget.org/packages/PollyBulkhead) | Bulkhead isolation for concurrent workloads |
 
+| [PollyAzureServiceBus](https://www.nuget.org/packages/PollyAzureServiceBus) | Polly v8 resilience (retry, CB, timeout) for Azure Service Bus senders and receivers |
 ## License
 
 MIT
