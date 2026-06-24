@@ -199,6 +199,11 @@ Retry → Circuit Breaker → Timeout → Kafka operation
 
 | [PollyAzureEventHub](https://github.com/Swevo/PollyAzureEventHub) | Polly v8 for Azure Event Hubs |
 | [PollyAzureServiceBus](https://www.nuget.org/packages/PollyAzureServiceBus) | Polly v8 resilience (retry, CB, timeout) for Azure Service Bus senders and receivers |
+## 💼 Need .NET consulting?
+
+The author of this package is available for consulting on **Polly v8 resilience**, **Azure cloud architecture**, and **clean .NET design**.
+
+**[→ solidqualitysolutions.com](https://www.solidqualitysolutions.com/)**
 ## License
 
 MIT
