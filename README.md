@@ -203,7 +203,7 @@ Retry → Circuit Breaker → Timeout → Kafka operation
 
 The author of this package is available for consulting on **Polly v8 resilience**, **Azure cloud architecture**, and **clean .NET design**.
 
-**[→ solidqualitysolutions.com](https://www.solidqualitysolutions.com/)**
+**[→ solidqualitysolutions.com](https://www.solidqualitysolutions.com/)** · **[LinkedIn](https://www.linkedin.com/in/justbannister/)**
 ## License
 
 MIT
